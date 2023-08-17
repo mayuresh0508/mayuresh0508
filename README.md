@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayuresh0508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development and Challenging Problems
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on Web DEvelopment open source projects
 - 📫 How to reach me ...
 
 <!---
